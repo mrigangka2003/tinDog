@@ -1,3 +1,5 @@
+
+
 ### Tinder Replicate: HTML and CSS
 
 This repository contains the code for a Tinder replicate website built using HTML and CSS. The website emulates the basic functionality of Tinder, allowing users to swipe through profiles and express their interest in potential matches.
@@ -27,5 +29,4 @@ Feel free to contribute to this project by adding new features or improving the 
 #### Link
 [View the website here](https://mrigangka2003.github.io/tinDog/)
 
-#### Note
-Use code with caution. Learn more about contributing and using the code responsibly.
+⚠️ **Note:** Use code with caution. Learn more about contributing and using the code responsibly.
